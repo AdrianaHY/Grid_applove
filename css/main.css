@@ -38,8 +38,8 @@ a:hover {
 }
 
 .link{
-  font-weight: 700;
-  padding:21px;
+  font-weight:700 ;
+  padding:5px;
   display:inline-block;
 }
 .logo{
@@ -52,7 +52,7 @@ header{
   top:0;
 }
 .menu{
-  padding:14 ps 70px;
+  padding:14px 70px;
   overflow:auto;
 }
 #home{
@@ -88,4 +88,30 @@ header{
 }
 .palabra-home{
   color:#fff;
+}
+#services{
+  background-color: #F17C72;
+  text-align: center;
+  color: #fff;
+  padding: 70px 7px;
+}
+.box-services{
+  display:inline-block;;
+  width:30%;
+  margin-top: 63px;
+}
+.text-services{
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+.contenedor-imagenes{
+  padding-left: 80px;
+}
+
+footer{
+  text-align:center;
+  height:70px;
+  background: #373B47;
+  color: #fff;
+  padding-top: 7px;
 }
